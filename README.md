@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # First Flight
 >*First Flight* is a video game with an aerodynamic twist! In the experience, players must become an aeroplane to help ten year old Ben achieve his childhood dream of flying. Airborne players sail through the sky avoiding feisty birds intent on sending Ben’s dreams crashing to the ground!
+=======
+=======
+>>>>>>> Stashed changes
+﻿# First Flight
+>First Flight is a video game with an aerodynamic twist! In the experience, players must become an aeroplane to help ten year old Ben achieve his childhood dream of flying. Airborne players sail through the sky avoiding feisty birds intent on sending Ben’s dreams crashing to the ground!
+>>>>>>> Stashed changes
 
 >Powering the experience is the [Makey Makey](http://makeymakey.com/) wired to six pedestals, three on each side. The direction of flight depends on the pedestals in contact. Players form the wings of the aeroplane as a human chain, orienting the chain in the direction they want to fly. Connecting the first pedestal on the left and the last pedestal on the right, flies the plane right. Vice versa flies the plane left.
 
@@ -8,7 +16,7 @@
 Watch the video here: [Youtube Link](https://www.youtube.com/watch?v=aBNrcFFF1Y8)
 
 ### The team
-First flight was created as part of the Building Virtual Worlds class at Entertainment Technology Center, Carnegie Mellon University. This world was featured in the BVW Festival 2015.
+First flight was created as part of the Building Virtual Worlds class at [Entertainment Technology Center](http://www.etc.cmu.edu/), Carnegie Mellon University. This world was featured in the BVW Festival 2015.
 
 **Team members:**
 
