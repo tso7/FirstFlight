@@ -8,7 +8,7 @@
 Watch the video here: [Youtube Link](https://www.youtube.com/watch?v=aBNrcFFF1Y8)
 
 ### The team
-First flight was created as part of the Building Virtual Worlds class at [Entertainment Technology Center](http://www.etc.cmu.edu/), Carnegie Mellon University. This world was featured in the BVW Festival 2015.
+First flight was created as part of the Building Virtual Worlds class at the [Entertainment Technology Center](http://www.etc.cmu.edu/), Carnegie Mellon University. This world was featured in the BVW Festival 2015.
 
 **Team members:**
 
