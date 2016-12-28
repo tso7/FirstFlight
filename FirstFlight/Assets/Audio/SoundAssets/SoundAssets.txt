@@ -1,0 +1,1 @@
+Just a place-holder file, to maintain this folder structure template, because Perforce will not sync empty folders.  You can delete this once you have uploaded some real files to this folder.  If you delete it before then, the folder that contains it will disappear, so be careful.
