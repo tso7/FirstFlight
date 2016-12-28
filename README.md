@@ -33,6 +33,6 @@ The code is provided is *'as-is'* and it lacks documentation. This might been cl
 ![MakeyMakeySetup](./MakeyMakeyLayout.png)
 
   * The default position is for three players to hold hands and touch the central two pedestals. This activates 'F' as the input from the Makey Makey and keeps the plane level.
-  * On touching the diagonal pedestals by simulating the wing of a plane, the Makey Makey inputs left/right which is converted to a simple analog input within Unity.
+  * On touching the diagonal pedestals (trying to simulate the wing of a plane), the Makey Makey inputs left/right which is converted to a simple analog input within Unity.
 
 ### License
