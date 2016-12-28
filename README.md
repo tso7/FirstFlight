@@ -36,3 +36,4 @@ The code is provided is *'as-is'* and it lacks documentation. This might been cl
   * On touching the diagonal pedestals (trying to simulate the wing of a plane), the Makey Makey inputs left/right which is converted to a simple analog input within Unity.
 
 ### License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
