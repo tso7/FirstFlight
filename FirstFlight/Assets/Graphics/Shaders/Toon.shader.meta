@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7a2eab47b39f4bb4eb0c370afe03fe14
+timeCreated: 1447553190
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: e06adbaf1e73acf49ac9c51829e3655e, type: 3}
+  - _Midtone: {fileID: 2800000, guid: 55362f1f587b4704eb11b1582027e686, type: 3}
+  - _Shadow: {fileID: 2800000, guid: ffb0bfc6f5daeca4d86f570b6924b9f3, type: 3}
+  - _Ramp: {fileID: 2800000, guid: a10a1e1c98bd1a34787c3104ace02492, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
