@@ -17,7 +17,7 @@ public class AudioInputAdapter : GenericSingleton<AudioInputAdapter> {
     public event SpectrumSelectHandler SpectrumSelect;
 
     private Hashtable audioin_;
-    private float sensitivity_ = 1000;
+    private float sensitivity_;
     private static int devserial;
     private const int kVolumeSample = 2048;
     private const int kSpectrumSample = 64;
@@ -67,6 +67,7 @@ public class AudioInputAdapter : GenericSingleton<AudioInputAdapter> {
 
     void Start () {
         devserial = Config.GetDevSerial();
+        sensitivity_ = Config.GetSensitivity();
         //Change the input device type here
         InputDevice = InDev.kMic;
         audioin_ = new Hashtable();
